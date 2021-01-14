@@ -26,8 +26,8 @@
 5. 동영상
 - ```html
     <video (생략하면 원본 크기: width="720" height="400") controls>
-<source src="비디오 주소">
+    	<source src="비디오 주소">
     </video>
     ```
-    
+
     와 같이 사용한다.
